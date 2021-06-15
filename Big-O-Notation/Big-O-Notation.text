@@ -1,0 +1,4 @@
+Purpose - helps to determine which code performs the best(optimal performance)
+    - important to have a precise vocab to talk about how our code performs
+    - useful for discussin trade-offs between approcahes
+    - when code slows down or crashes, identifying parts of the code that are inefficient can help us find pain points in our approach
